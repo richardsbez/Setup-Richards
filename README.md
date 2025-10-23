@@ -1,6 +1,6 @@
 # ⚙️ Setup-Richards
 
-![Setup](screenshots\front.png)
+![Setup](screenshots/front.png)
 
 A curated setup for **maximum productivity, organization, and creativity**.
 
